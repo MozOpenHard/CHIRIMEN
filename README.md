@@ -1,7 +1,8 @@
 # CHIRIMEN
 ![CHIRIMEN Photo](photoImages/CHIRIMEN.jpg "CHIRIMEN")
 
-| Left align | Right align |
+### Hardware Specs (Outline)
+|  |  |
 |:-----------|------------:
 | SoC       | RK3066  |
 | Memory     |  DDR3 1GB |
