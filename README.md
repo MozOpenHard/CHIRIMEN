@@ -1,1 +1,2 @@
 # CHIRIMEN
+![CHIRIMEN Photo](photoImages/CHIRIMEN.jpg "CHIRIMEN")
